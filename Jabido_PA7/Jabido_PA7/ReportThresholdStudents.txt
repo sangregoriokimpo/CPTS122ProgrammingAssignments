@@ -1,0 +1,47 @@
+|    Record |         ID |                 Name |                     Email | Units |    Program | Absences
+|        25 |  667788990 |         Jackson,Liam |         liamj@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        24 |  556677889 |        Thomas,Olivia |       oliviat@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        23 |  445566778 |       Thomas,William |      williamt@cpts122.edu |    AU |         EE |     1
+|2024-4-7
+|        22 |  334455667 |        Anderson,Emma |         emmaa@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        21 |  223344556 |     Anderson,Michael |      michaela@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        20 |  112233445 |        Taylor,Sophia |       sophiat@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        19 |       9012 |         Taylor,James |        jamest@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|        18 |       8901 |         Wilson,Emily |        emilyw@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        17 |       7890 |        Wilson,Robert |       robertw@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        16 |       6789 |          Jones,Emily |        emilyj@cpts122.edu |    AU |         EE |     1
+|2024-4-7
+|        15 |       5678 |          Jones,David |        davidj@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        14 |       4567 |          Brown,Sarah |        sarahb@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        13 |       3456 |        Brown,Michael |      michaelb@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        12 |       2345 |             Doe,Jane |          jane@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|        11 |       1234 |             Doe,John |          john@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        10 |       3255 |            Mort,Kris |          mort@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         9 |       1222 |         Willis,Bruce |   brucewillis@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|         8 |       1122 |           Smith,Jane |          jane@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         7 |       7759 |             Sam,Theo |          samt@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|         6 |       5530 |          Payton,Ella |       epayton@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|         5 |       2121 |         James,Hannah |   jameshannah@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         3 |       1121 |      Leinart,Timothy |           tim@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|         2 |       8147 |            Beck,Sara |          sara@cpts122.edu |     4 |         EE |     1
+|2024-4-7

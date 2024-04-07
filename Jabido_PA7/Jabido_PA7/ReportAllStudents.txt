@@ -1,0 +1,114 @@
+|    Record |         ID |                 Name |                     Email | Units |    Program | Absences
+|        90 |  223233445 |         Rivera,Chloe |        chloer@cpts122.edu |    AU |         CS |     0
+|        89 |  112122334 |          Rivera,Liam |         liamr@cpts122.edu |     4 |         CS |     0
+|        88 |  101011223 |      Bailey,Scarlett |     scarlettb@cpts122.edu |    AU |         EE |     0
+|        87 |  990900112 |       Bailey,Michael |      michaelb@cpts122.edu |     4 |       CPTE |     0
+|        86 |  889899001 |        Murphy,Amelia |       ameliac@cpts122.edu |     4 |         EE |     0
+|        85 |  778788990 |         Murphy,David |        davidm@cpts122.edu |    AU |       CPTE |     0
+|        84 |  667677889 |        Cook,Scarlett |      scarlett@cpts122.edu |     4 |         CS |     0
+|        83 |  556566778 |         Cook,Matthew |      matthewc@cpts122.edu |     4 |       CPTE |     0
+|        82 |  445455667 |        Roberts,Grace |         grace@cpts122.edu |     4 |         EE |     0
+|        81 |  334344556 |       Roberts,Daniel |        danile@cpts122.edu |    AU |         CS |     0
+|        80 |  223233445 |     Thomas,Charlotte |    charlottet@cpts122.edu |     4 |       CPTE |     0
+|        79 |  112122334 |      Thomas,Benjamin |     benjamint@cpts122.edu |     4 |         EE |     0
+|        78 |  101011223 |         Carter,Chloe |        chloec@cpts122.edu |    AU |         CS |     0
+|        77 |  990900112 |        Carter,Daniel |        danile@cpts122.edu |     4 |         CS |     0
+|        76 |  889899001 |           Nelson,Ava |           ava@cpts122.edu |     4 |       CPTE |     0
+|        75 |  778788990 |          Nelson,Liam |         liamn@cpts122.edu |    AU |         EE |     0
+|        74 |  667677889 |         Baker,Olivia |       oliviab@cpts122.edu |     4 |         CS |     0
+|        73 |  556566778 |        Baker,Michael |      michaelb@cpts122.edu |     4 |       CPTE |     0
+|        72 |  445455667 |            Adams,Ava |           ava@cpts122.edu |     4 |         EE |     0
+|        71 |  334344556 |        Adams,William |      williama@cpts122.edu |     4 |         CS |     0
+|        70 |  223233445 |           Green,Emma |         emmag@cpts122.edu |     4 |       CPTE |     0
+|        69 |  112122334 |          Green,James |        jamesg@cpts122.edu |     4 |         CS |     0
+|        68 |  101011223 |       Scott,Scarlett |     scarletts@cpts122.edu |    AU |         CS |     0
+|        67 |  990900112 |           Scott,Liam |         liams@cpts122.edu |     4 |       CPTE |     0
+|        66 |  889899001 |        Hill,Scarlett |     scarletth@cpts122.edu |     4 |         EE |     0
+|        65 |  778788990 |         Hill,Matthew |      matthewh@cpts122.edu |    AU |         CS |     0
+|        64 |  667677889 |            Lopez,Ava |           ava@cpts122.edu |     4 |         CS |     0
+|        63 |  556566778 |         Lopez,Daniel |        danile@cpts122.edu |     4 |       CPTE |     0
+|        62 |  445455667 |     Wright,Charlotte |    charlottew@cpts122.edu |    AU |         EE |     0
+|        61 |  334344556 |      Wright,Benjamin |     benjaminw@cpts122.edu |     4 |         EE |     0
+|        60 |  223233445 |          King,Sophia |       sophiak@cpts122.edu |     4 |         CS |     0
+|        59 |  112122334 |           King,James |        jamesk@cpts122.edu |    AU |         CS |     0
+|        58 |  101011223 |   Hernandez,Isabella |     isabellah@cpts122.edu |     4 |       CPTE |     0
+|        57 |  990900112 |       Hernandez,Liam |         liamh@cpts122.edu |     4 |       CPTE |     0
+|        56 |  889899001 |          Young,Chloe |        chloey@cpts122.edu |    AU |         EE |     0
+|        55 |  778788990 |          Young,David |        davidy@cpts122.edu |     4 |         EE |     0
+|        54 |  667677889 |       Allen,Scarlett |     scarletta@cpts122.edu |    AU |         CS |     0
+|        53 |  556566778 |        Allen,Matthew |      matthewa@cpts122.edu |     4 |         CS |     0
+|        52 |  445455667 |             Hall,Ava |           ava@cpts122.edu |     4 |       CPTE |     0
+|        51 |  334344556 |          Hall,Daniel |        danile@cpts122.edu |     4 |         CS |     0
+|        50 |  223233445 |          Walker,Emma |          emmw@cpts122.edu |    AU |         EE |     0
+|        49 |  112122334 |         Walker,James |        jamesw@cpts122.edu |     4 |       CPTE |     0
+|        48 |  101011223 |            Lee,Emily |        emilyl@cpts122.edu |     4 |       CPTE |     0
+|        47 |  990900112 |          Lee,William |      williaml@cpts122.edu |    AU |         CS |     0
+|        46 |  889899001 |        Lewis,Abigail |      abigaill@cpts122.edu |     4 |         EE |     0
+|        45 |  778788990 |      Lewis,Alexander |    alexanderl@cpts122.edu |     4 |       CPTE |     0
+|        44 |  667677889 |     Rodriguez,Hannah |       hannahr@cpts122.edu |    AU |         EE |     0
+|        43 |  556566778 |    Rodriguez,Michael |      michaelr@cpts122.edu |     4 |       CPTE |     0
+|        42 |  445455667 |          Clark,Grace |        gracec@cpts122.edu |     4 |         CS |     0
+|        41 |  334344556 |         Clark,Joseph |       josephc@cpts122.edu |     4 |         CS |     0
+|        40 |  223233445 |        Robinson,Lily |         lilyr@cpts122.edu |    AU |       CPTE |     0
+|        39 |  112122334 |       Robinson,Ethan |        ethanr@cpts122.edu |     4 |         EE |     0
+|        38 |  109011223 |       Martinez,Chloe |        chloem@cpts122.edu |     4 |         CS |     0
+|        37 |  989900112 |       Martinez,David |        davidm@cpts122.edu |    AU |       CPTE |     0
+|        36 |  878899001 |      Garcia,Scarlett |     scarlettg@cpts122.edu |     4 |         EE |     0
+|        35 |  767788990 |       Garcia,Matthew |      matthewg@cpts122.edu |     4 |         CS |     0
+|        34 |  656677889 |         Thompson,Ava |          avat@cpts122.edu |     4 |       CPTE |     0
+|        33 |  545566778 |      Thompson,Daniel |       danield@cpts122.edu |    AU |         EE |     0
+|        32 |  434455667 |     Martin,Charlotte |    charlottem@cpts122.edu |     4 |         EE |     0
+|        31 |  323344556 |      Martin,Benjamin |     benjaminm@cpts122.edu |     4 |         CS |     0
+|        30 |  212233445 |           Harris,Mia |          miah@cpts122.edu |     4 |       CPTE |     0
+|        29 |  101122334 |     Harris,Alexander |     alexandeh@cpts122.edu |    AU |         CS |     0
+|        28 |  990011223 |         White,Amelia |       ameliaw@cpts122.edu |     4 |         CS |     0
+|        27 |  889900112 |          White,Mason |        masonw@cpts122.edu |     4 |       CPTE |     0
+|        26 |  778899001 |          Jackson,Ava |          avaj@cpts122.edu |    AU |         CS |     0
+|        25 |  667788990 |         Jackson,Liam |         liamj@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        24 |  556677889 |        Thomas,Olivia |       oliviat@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        23 |  445566778 |       Thomas,William |      williamt@cpts122.edu |    AU |         EE |     1
+|2024-4-7
+|        22 |  334455667 |        Anderson,Emma |         emmaa@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        21 |  223344556 |     Anderson,Michael |      michaela@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        20 |  112233445 |        Taylor,Sophia |       sophiat@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        19 |       9012 |         Taylor,James |        jamest@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|        18 |       8901 |         Wilson,Emily |        emilyw@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        17 |       7890 |        Wilson,Robert |       robertw@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        16 |       6789 |          Jones,Emily |        emilyj@cpts122.edu |    AU |         EE |     1
+|2024-4-7
+|        15 |       5678 |          Jones,David |        davidj@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        14 |       4567 |          Brown,Sarah |        sarahb@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|        13 |       3456 |        Brown,Michael |      michaelb@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|        12 |       2345 |             Doe,Jane |          jane@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|        11 |       1234 |             Doe,John |          john@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|        10 |       3255 |            Mort,Kris |          mort@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         9 |       1222 |         Willis,Bruce |   brucewillis@cpts122.edu |    AU |         CS |     1
+|2024-4-7
+|         8 |       1122 |           Smith,Jane |          jane@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         7 |       7759 |             Sam,Theo |          samt@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|         6 |       5530 |          Payton,Ella |       epayton@cpts122.edu |     4 |       CPTE |     1
+|2024-4-7
+|         5 |       2121 |         James,Hannah |   jameshannah@cpts122.edu |     4 |         CS |     1
+|2024-4-7
+|         4 |       4478 |            Art,Bruce |          bart@cpts122.edu |    AU |       CPTE |     0
+|         3 |       1121 |      Leinart,Timothy |           tim@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|         2 |       8147 |            Beck,Sara |          sara@cpts122.edu |     4 |         EE |     1
+|2024-4-7
+|         1 |       1111 |           Smith,John |        smithj@cpts122.edu |     4 |         CS |     0

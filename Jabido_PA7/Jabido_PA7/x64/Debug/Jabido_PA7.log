@@ -1,0 +1,10 @@
+﻿  AttendanceTracker.cpp
+C:\Users\grego\source\repos\Jabido_PA7\Jabido_PA7\AttendanceTracker.cpp(451,41): warning C4101: 'e': unreferenced local variable
+  Data.cpp
+  Jabido_PA7.cpp
+  List.cpp
+  Node.cpp
+  PA7Header.cpp
+  Stack.cpp
+  Generating Code...
+  Jabido_PA7.vcxproj -> C:\Users\grego\source\repos\Jabido_PA7\x64\Debug\Jabido_PA7.exe
