@@ -1,0 +1,11 @@
+﻿  BST.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+  BSTNode.cpp
+  Jabido_PA6.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+  MorseApp.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\grego\source\repos\Jabido_PA6\Jabido_PA6\MorseApp.cpp(129,9): warning C4101: 'choice': unreferenced local variable
+  PA6Header.cpp
+  Generating Code...
+  Jabido_PA6.vcxproj -> C:\Users\grego\source\repos\Jabido_PA6\x64\Debug\Jabido_PA6.exe
