@@ -1,0 +1,3 @@
+﻿  functions.c
+C:\Users\grego\source\repos\Jabido_PA3\Jabido_PA3\functions.c(735,10): warning C4101: 'editRecordChoice': unreferenced local variable
+  Jabido_PA3.vcxproj -> C:\Users\grego\source\repos\Jabido_PA3\x64\Debug\Jabido_PA3.exe

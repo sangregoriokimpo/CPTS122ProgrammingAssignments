@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jabido_PA3", "Jabido_PA3\Jabido_PA3.vcxproj", "{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Debug|x64.ActiveCfg = Debug|x64
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Debug|x64.Build.0 = Debug|x64
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Debug|x86.ActiveCfg = Debug|Win32
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Debug|x86.Build.0 = Debug|Win32
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Release|x64.ActiveCfg = Release|x64
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Release|x64.Build.0 = Release|x64
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Release|x86.ActiveCfg = Release|Win32
+		{62C6034C-BD3D-4AA8-AEDE-AD66599AC344}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CF149E-7611-4DAA-B6D3-657A2FAA1785}
+	EndGlobalSection
+EndGlobal
