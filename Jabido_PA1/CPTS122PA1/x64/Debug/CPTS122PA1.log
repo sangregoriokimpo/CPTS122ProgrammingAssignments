@@ -1,0 +1,8 @@
+﻿  CPTS122redonefunctions.c
+  main.c
+C:\Users\grego\source\repos\CPTS122PA1\CPTS122PA1\main.c(23,11): warning C4101: 'testtoken1': unreferenced local variable
+C:\Users\grego\source\repos\CPTS122PA1\CPTS122PA1\main.c(19,45): warning C4101: 'discardFitBitData': unreferenced local variable
+C:\Users\grego\source\repos\CPTS122PA1\CPTS122PA1\main.c(23,29): warning C4101: 'testtoken2': unreferenced local variable
+C:\Users\grego\source\repos\CPTS122PA1\CPTS122PA1\main.c(23,47): warning C4101: 'testtoken3': unreferenced local variable
+  Generating Code...
+  CPTS122PA1.vcxproj -> C:\Users\grego\source\repos\CPTS122PA1\x64\Debug\CPTS122PA1.exe
