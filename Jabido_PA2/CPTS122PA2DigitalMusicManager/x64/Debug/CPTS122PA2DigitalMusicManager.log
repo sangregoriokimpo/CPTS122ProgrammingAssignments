@@ -1,0 +1,6 @@
+﻿  CPTS122PA2functions.c
+  main.c
+C:\Users\grego\source\repos\CPTS122PA2DigitalMusicManager\CPTS122PA2DigitalMusicManager\main.c(4,10): warning C4101: 'inputLine': unreferenced local variable
+  Generating Code...
+C:\Users\grego\source\repos\CPTS122PA2DigitalMusicManager\CPTS122PA2DigitalMusicManager\CPTS122PA2functions.c(188): warning C4716: 'editRecordArtist': must return a value
+  CPTS122PA2DigitalMusicManager.vcxproj -> C:\Users\grego\source\repos\CPTS122PA2DigitalMusicManager\x64\Debug\CPTS122PA2DigitalMusicManager.exe
