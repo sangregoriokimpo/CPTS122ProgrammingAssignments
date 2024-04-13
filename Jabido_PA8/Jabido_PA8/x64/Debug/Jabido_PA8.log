@@ -1,0 +1,8 @@
+﻿  Jabido_PA8.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+  Node.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+  TransactionNode.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+  Generating Code...
+  Jabido_PA8.vcxproj -> C:\Users\grego\source\repos\Jabido_PA8\x64\Debug\Jabido_PA8.exe
